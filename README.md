@@ -53,8 +53,13 @@ Each query was designed to answer a specific business challenge:
 - Operational Planning: What is the most common payment method per branch?
 
 ## 📊 Power BI Dashboard Highlights
-Your dashboard translates SQL insights into visual storytelling:
-### KPIs: Total Revenue, Profit, Orders, Units Sold, Avg Rating
+The dashboard translates SQL insights into visual storytelling:
+### KPIs
+- Total Revenue
+- Profit
+- Orders
+- Units Sold
+- Avg Rating
   
 ### Charts Used
 - Bar chart for category performance
@@ -63,7 +68,6 @@ Your dashboard translates SQL insights into visual storytelling:
 - Area chart for daily order volume
 - Map for city-wise revenue distribution
 - Bar chart for top 5 cities by revenue
-Each visual is designed to support a business decision—whether it's marketing focus, staffing strategy, or payment system optimization.
 
 ## 🚀 How to Run
 
