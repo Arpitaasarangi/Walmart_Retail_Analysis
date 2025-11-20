@@ -8,6 +8,7 @@ To uncover actionable business insights from Walmart’s retail transaction data
 - Source: Kaggle Walmart Sales Dataset
 - Format: CSV
 - Key Columns: Branch, City, Category, Payment_Method, Unit_Price, Quantity, Profit_Margin, Rating, Date, Time
+  
 The dataset captures transactional-level details including product category, customer ratings, payment method, and timestamped sales data across multiple Walmart branches.
 
 ## 🧰 Tools Used
