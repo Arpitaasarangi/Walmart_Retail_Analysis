@@ -1,7 +1,7 @@
 # Walmart_Retail_Analysis
 
 ## 🎯 Objective
-To uncover actionable business insights from Walmart’s retail transaction data using SQL and Power BI. The project focuses on customer behavior, branch performance, category profitability, and operational optimization. Each insight is tied to a real-world business decision—whether it's staffing, marketing, or inventory planning.
+To uncover actionable business insights from Walmart’s retail transaction data using Python,SQL and Power BI. The project focuses on customer behavior, branch performance, category profitability, and operational optimization. Each insight is tied to a real-world business decision—whether it's staffing, marketing, or inventory planning.
 
 ## 📂 Dataset Overview
 
